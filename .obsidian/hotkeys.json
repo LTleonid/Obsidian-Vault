@@ -1,20 +1,19 @@
 {
-  "obsidian-git:commit": [
+  "obsidian-git:open-history-view": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
-      "key": "*"
+      "key": "/"
     }
   ],
-  "obsidian-git:pull": [
+  "obsidian-git:open-git-view": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
-      "key": "+"
+      "key": "/"
     }
   ],
   "obsidian-git:push2": [
@@ -23,7 +22,42 @@
         "Alt",
         "Mod"
       ],
+      "key": "+"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
       "key": "-"
+    }
+  ],
+  "obsidian-git:view-history-on-github": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-git:view-file-on-github": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "+"
     }
   ]
 }

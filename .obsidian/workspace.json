@@ -128,13 +128,29 @@
                 "file": "Документация для Tkinter от LT..md"
               }
             }
+          },
+          {
+            "id": "ba452a41370432ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3e18523a9238eba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,11 +166,11 @@
   "active": "4fc3c71de0766359",
   "lastOpenFiles": [
     "iconphoto.md",
+    "iconbitmap.md",
     "Документация для Tkinter от LT..md",
     "README.md",
     "Без названия.canvas",
     "2023-12-06.md",
-    "iconbitmap.md",
     "Iconbi.md"
   ]
 }
