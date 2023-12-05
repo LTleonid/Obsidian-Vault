@@ -36,4 +36,3 @@ root.resizable(False, False) #По ширине, По высоте
 root.iconbitmap(default="путь до файла/название файла.ico") 
 ```
 
-sadasdssssssssssssssssssss
