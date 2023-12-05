@@ -33,5 +33,7 @@ root.resizable(False, False) #По ширине, По высоте
 
 ### Иконка окна [[iconbitmap]], [[iconphoto]]
 ```python
-root.iconbitmap(default="путь до файла/название файла.ico") kzkzkz
+root.iconbitmap(default="путь до файла/название файла.ico") 
 ```
+
+Тестирую GIT для Obsidian пж работай!!!
