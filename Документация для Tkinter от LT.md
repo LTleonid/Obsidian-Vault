@@ -1,7 +1,7 @@
-Ориг документация 
+[Ориг документация](https://docs.python.org/3/library/tkinter.html)
 ## Начало:
 ```python
-#Импорт библиотек
+	#Импорт библиотек
 from tkinter import *
 from tkinter import ttk
 #Краткая функция в переменной
@@ -36,6 +36,27 @@ root.resizable(False, False) #По ширине, По высоте
 ```python
 root.iconbitmap(default="путь_к_файлу/название_файла.ico")
 ```
+
 ```python 
-#код доя iconphoto
+icon = PhotoImage(file = "название_файла.png")
+root.iconphoto(False, icon)
+```
+
+### Перехват закрытия окна
+```python
+def finish():
+
+    root.destroy()  # ручное закрытие окна и всего приложения
+
+    print("Закрытие приложения")`
+
+root = Tk()
+
+root.geometry("250x200")
+
+root.title("Hello METANIT.COM")
+
+root.protocol("WM_DELETE_WINDOW", finish)
+
+root.mainloop()
 ```
