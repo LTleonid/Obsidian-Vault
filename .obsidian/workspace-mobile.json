@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "277de76827fd6a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b416ee77e32db36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56f516edd3f1a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Документация для Tkinter от LT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44506d04eb54e249",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c045b08caa813e27",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3b84482379b7c63a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6b80878f33cc7956",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "01cb2d551bc1191e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7d90b1d788ca288b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "63167f53b42addcc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Документация для Tkinter от LT.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a40f44c31ffd85a2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Документация для Tkinter от LT.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e1ae59e1dbc46d68",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Документация для Tkinter от LT.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "b56f516edd3f1a7f",
+  "lastOpenFiles": [
+    "Документация для Tkinter от LT.md",
+    "README.md",
+    "iconbitmap.md"
+  ]
+}
