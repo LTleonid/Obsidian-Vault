@@ -117,9 +117,25 @@
             "file": "Документация для Tkinter от LT.md"
           }
         }
+      },
+      {
+        "id": "b6206d210ccfe0e3",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "6ee765bb69d59c4c",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,8 +150,9 @@
   },
   "active": "b56f516edd3f1a7f",
   "lastOpenFiles": [
+    "iconphoto.md",
     "Документация для Tkinter от LT.md",
-    "README.md",
-    "iconbitmap.md"
+    "iconbitmap.md",
+    "README.md"
   ]
 }

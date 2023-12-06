@@ -1,3 +1,4 @@
+Ориг документация 
 ## Начало:
 ```python
 #Импорт библиотек
@@ -31,4 +32,10 @@ root.maxsize(Ширина,Высота)    # максимальные разме
 root.resizable(False, False) #По ширине, По высоте
 ```
 
-### Иконка ududuydyd
+### Иконка приложения [[iconbitmap]],[[iconphoto]]
+```python
+root.iconbitmap(default="путь_к_файлу/название_файла.ico")
+```
+```python 
+#код доя iconphoto
+```
