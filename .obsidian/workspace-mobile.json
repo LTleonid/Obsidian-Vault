@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "П.md",
+                "file": "Алгоритм для battle menu.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "П.md",
+            "file": "Алгоритм для battle menu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "П.md",
+            "file": "Алгоритм для battle menu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "П.md"
+            "file": "Алгоритм для battle menu.md"
           }
         }
       },
@@ -175,9 +175,9 @@
   },
   "active": "866993c95a945639",
   "lastOpenFiles": [
-    "Документация для Tkinter от LT.md",
-    "П.md",
     "Без названия.md",
+    "Алгоритм для battle menu.md",
+    "Документация для Tkinter от LT.md",
     "Без названия",
     "iconbitmap.md",
     "iconphoto.md",
