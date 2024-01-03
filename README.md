@@ -1,1 +1,1 @@
-# Заметки на Obsidian
+# Замтеки на Obsidian

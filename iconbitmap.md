@@ -23,26 +23,3 @@ def iconbitmap(self, bitmap=None, default=None):
 
             return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
 ```
-
-Также есть возможность использовать иконку без файла
-```python
-import tempfile, base64, zlib
-
-ICON = zlib.decompress(base64.b64decode("eJxjYGAEQgEBBiDJwZDBysAgxsDAoAHEQCEGBQaIOAg4sDIgACMUj4JRMApGwQgF/ykEAFXxQRc="))
-
-_, ICON_PATH = tempfile.mkstemp()
-
-with open  (ICON_PATH,   "wb") as icon_file:
-
-    icon_file.write(ICON)
-
-root = Tk()
-
-root.title("Hello METANIT.COM")
-
-root.geometry("300x250")
-
-root.iconbitmap(default=ICON_PATH)
-
-root.mainloop()
-```
