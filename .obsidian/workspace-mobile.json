@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритм для battle menu.md",
-                "mode": "source",
-                "source": false
+                "file": "Project45.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Название",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "7d90b1d788ca288b",
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Алгоритм для battle menu.md",
+            "file": "Project45.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Алгоритм для battle menu.md",
+            "file": "Project45.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Алгоритм для battle menu.md"
+            "file": "Project45.md"
           }
         }
       },
@@ -175,12 +175,13 @@
   },
   "active": "866993c95a945639",
   "lastOpenFiles": [
-    "2023-12-06.md",
-    "Алгоритм для battle menu.md",
-    "Без названия.md",
     "Документация для Tkinter от LT.md",
-    "Без названия",
+    "Project45.md",
     "iconbitmap.md",
+    "Алгоритм для battle menu.md",
+    "2023-12-06.md",
+    "Без названия.md",
+    "Без названия",
     "iconphoto.md",
     "README.md"
   ]
