@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fefd6eee75815710",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,20 +186,20 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "3880328c534ca337",
+  "active": "fefd6eee75815710",
   "lastOpenFiles": [
-    "2024-02-01_13_55_06.jpg",
-    "2024-02-01_16_13_19.jpg",
+    "2023-12-06.md",
     "2024-02-01_16_13_30.jpg",
-    "2024-02-01_13_53_52.jpg",
-    "Документация для Tkinter от LT.md",
+    "2024-02-01_16_13_19.jpg",
     "Project45.md",
+    "iconphoto.md",
+    "iconbitmap.md",
+    "Документация для Tkinter от LT.md",
     "Без названия.md",
     "Алгоритм для battle menu.md",
-    "iconbitmap.md",
-    "2023-12-06.md",
+    "2024-02-01_13_55_06.jpg",
+    "2024-02-01_13_53_52.jpg",
     "README.md",
-    "iconphoto.md",
     "protocol.md",
     "Без названия.canvas",
     "Iconbi.md"
