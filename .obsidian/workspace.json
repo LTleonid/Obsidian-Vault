@@ -35,9 +35,11 @@
             "id": "fefd6eee75815710",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Project45.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -188,18 +190,18 @@
   },
   "active": "fefd6eee75815710",
   "lastOpenFiles": [
+    "README.md",
+    "Project45.md",
+    "Документация для Tkinter от LT.md",
+    "Без названия.md",
     "2023-12-06.md",
     "2024-02-01_16_13_30.jpg",
     "2024-02-01_16_13_19.jpg",
-    "Project45.md",
     "iconphoto.md",
     "iconbitmap.md",
-    "Документация для Tkinter от LT.md",
-    "Без названия.md",
     "Алгоритм для battle menu.md",
     "2024-02-01_13_55_06.jpg",
     "2024-02-01_13_53_52.jpg",
-    "README.md",
     "protocol.md",
     "Без названия.canvas",
     "Iconbi.md"
