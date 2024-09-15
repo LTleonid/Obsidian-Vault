@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fc3c71de0766359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project45.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3880328c534ca337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project45.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fefd6eee75815710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Метода.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7ce24d11452918b",
@@ -175,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +167,7 @@
   },
   "active": "fefd6eee75815710",
   "lastOpenFiles": [
+    "Project45.md",
     "Метода.md",
     "Без названия.md",
     "Документация для Tkinter от LT.md",
@@ -202,7 +180,6 @@
     "iconbitmap.md",
     "iconphoto.md",
     "README.md",
-    "Project45.md",
     "protocol.md",
     "Без названия.canvas",
     "Iconbi.md"
