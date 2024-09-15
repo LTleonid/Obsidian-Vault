@@ -15,7 +15,7 @@
               "state": {
                 "file": "Метода.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7ce24d11452918b",
