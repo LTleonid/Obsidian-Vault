@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project45.md",
+                "file": "Метода.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project45.md",
+                "file": "Метода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project45.md",
+                "file": "Метода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project45.md"
+                "file": "Метода.md"
               }
             }
           },
@@ -190,18 +190,19 @@
   },
   "active": "fefd6eee75815710",
   "lastOpenFiles": [
-    "README.md",
-    "Project45.md",
-    "Документация для Tkinter от LT.md",
     "Без названия.md",
+    "Документация для Tkinter от LT.md",
     "2023-12-06.md",
     "2024-02-01_16_13_30.jpg",
-    "2024-02-01_16_13_19.jpg",
-    "iconphoto.md",
-    "iconbitmap.md",
-    "Алгоритм для battle menu.md",
-    "2024-02-01_13_55_06.jpg",
     "2024-02-01_13_53_52.jpg",
+    "2024-02-01_13_55_06.jpg",
+    "2024-02-01_16_13_19.jpg",
+    "Алгоритм для battle menu.md",
+    "Метода.md",
+    "iconbitmap.md",
+    "iconphoto.md",
+    "README.md",
+    "Project45.md",
     "protocol.md",
     "Без названия.canvas",
     "Iconbi.md"
